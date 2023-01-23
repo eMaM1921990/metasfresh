@@ -45,6 +45,7 @@ import lombok.NonNull;
 import org.adempiere.service.ISysConfigBL;
 import org.adempiere.util.api.Params;
 import org.compiere.util.Env;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Profile;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

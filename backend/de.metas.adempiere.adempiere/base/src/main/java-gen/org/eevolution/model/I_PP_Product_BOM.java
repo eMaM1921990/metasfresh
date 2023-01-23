@@ -9,6 +9,7 @@ import org.adempiere.model.ModelColumn;
 @SuppressWarnings("unused")
 public interface I_PP_Product_BOM 
 {
+	//SYNC_LIMS
 
 	String Table_Name = "PP_Product_BOM";
 
